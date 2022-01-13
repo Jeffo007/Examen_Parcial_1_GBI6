@@ -1,2 +1,12 @@
-# Examen_Parcial_1_GBI6
-Examen Parcial de Jefferson Sánchez
+# Datos personales
+Nombre:Jefferson Sánchez
+Semestre: 6
+Materia: Bioinformática
+# SAMND
+
+
+
+
+
+# METADATA DE LA DATA
+Explicaciones de la data
